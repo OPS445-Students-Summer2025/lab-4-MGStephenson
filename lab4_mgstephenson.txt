@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab4.py
+=================================================================
+    User login name: mgstephenson
+    Linux system name: mgstephenson-VirtualBox
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/mgstephenson/ops445/lab4/lab-4-MGStephenson
+    Start at: Fri Jun  6 13:16:59 2025
+=================================================================
